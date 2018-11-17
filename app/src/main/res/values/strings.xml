@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="today_message">TODAY\'S\nFORECAST</string>
+    <string name="main_step1">°C</string>
+    <string name="aboutApp1">This is a weather application.\nIt provides the current temprature in the following 5 cities: Cairo, London, Barcelona, Paris and Munich.\nIn addition it provides a 5 5 days weather forecast for the previous mentioned cities.\nThis application uses OpenWeatherApi </string>
+    <string name="openweatherURL"><u>https://openweathermap.org</u></string>
+    <string name="aboutApp2">This application was developed by Peter Ragheb.\nYou can contact the developer via phone or email</string>
+    <string name="email">Email: </string>
+    <string name="phone">Phone: </string>
+    <string name="developerEmail"><u>pete.ragheb@gmail.com</u></string>
+    <string name="developerPhone"><u>+201225904548</u></string>
+</resources>
